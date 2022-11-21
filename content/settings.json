@@ -2,33 +2,33 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "title": "Noah Heraud's Portfolio",
+    "titleTemplate": "%s · Noah's portfolio",
+    "description": "A Minimalist Portfolio by Noah Heraud",
+    "author": "Noah Heraud",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "Interested in computers since I was a kid, I learned to code very early thanks to lego robots. With a lot of online stores or even showcase sites that I made for friends I could know the basics of web development. I quickly learned cybersecurity with sites like hackthebox or vulnhub. I wish to work in cybersecurity later on. In spite of this passion I am very sportive, I practiced handball for 7 years, I also travelled a lot which allowed me to improve my eloquence and my capacity to negotiate.",
     "social": {
       "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "github": "https://github.com/WinDyAlphA",
+      "medium": "https://medium.com",
+      "linkedin": "https://www.linkedin.com/in/noah-heraud-837845203/",
+      "mail": "mailto:heraud260@gmail.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Noah's Portfolio" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Project", "url": "/#project" },
+        { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
-        "url": "/resume.pdf"
+        "label": "Download Resume",
+        "url": "https://drive.google.com/uc?export=download&id=1qeU3lfKPJGW9AcG25JuxOL1bb0qViAa1"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },

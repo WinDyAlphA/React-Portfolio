@@ -1,14 +1,11 @@
 ---
 imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageAlt: "About Me"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Interested in computers since I was a kid, I learned to code very early thanks to lego robots. With a lot of online stores or even showcase sites that I made for friends I could know the basics of web development.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+I quickly learned cybersecurity with sites like <a target="_blank" href="https://hackthebox.com">HackTheBox</a>
+or <a target="_blank" href="https://vulnhub.com">vulnHub</a>. I wish to work in cybersecurity later on.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+In spite of this passion I am very sportive, I practiced handball for 7 years, I also travelled a lot which allowed me to improve my eloquence and my capacity to negotiate.

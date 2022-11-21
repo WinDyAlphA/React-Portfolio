@@ -2,47 +2,32 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "💻 Website",
+      "title": "My First Personal Website",
+      "description": "I wanted an online version of my resume so I made this page under the domain name noahheraud.com. This site contains all the essential information and a way to connect. I did it outside of school. It is of course destined to evolve",
+      "tags": ["👨‍💻Personal Website"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/NHsite.png",
         "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
-        }
-      ]
+        "linkTo": "https://noahheraud.com"
+      }
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "🧰 Website Under Development",
+      "title": "Website that create personnalised touristic itineraries",
+      "description": "This website is a project that I did with two friends. It is a website that allows you to create a personalized itinerary for your trip. It is still in development. We are currently working on the back-end.",
+      "tags": ["👨‍💻👨‍💻👨‍💻Team Website", "🚧 Under Development"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        }
-      ]
+        "src": "../../images/image.png",
+        "alt": "Extendable Layout",
+        "linkTo": "http://35.181.153.68/plan-my-journey/"
+      } 
     }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "Check out my Github",
+    "url": "https://github.com/WinDyAlphA"
   }
 }

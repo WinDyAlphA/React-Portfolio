@@ -1,22 +1,20 @@
 {
-  "intro": "Hej",
+  "intro": "Hey, I'm Noah",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/NHpic.png",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm a Full-Stack developer",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": ""
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "A passionate developer who loves to learn new things and build cool stuff.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "showIcons": true
   }
 }
