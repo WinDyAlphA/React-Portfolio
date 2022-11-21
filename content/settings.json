@@ -1,7 +1,7 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "siteUrl": "",
     "title": "Noah Heraud's Portfolio",
     "titleTemplate": "%s · Noah's portfolio",
     "description": "A Minimalist Portfolio by Noah Heraud",
@@ -22,8 +22,8 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Portfolio", "url": "/portfolio" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {
         "openNewTab": true,

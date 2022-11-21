@@ -6,8 +6,11 @@ banner:
   src: "../../images/SnakeGameZoomed.png"
   alt: "First Markdown Post"
 categories:
-  - "application development"
-  - "Game"
+  - "Game development"
+  - "Ac 1"
+  - "Ac 2"
+  - "Ac 5"
+  - "Ac 6"
 keywords:
   - "JavaScript"
   - "Development"

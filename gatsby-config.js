@@ -5,12 +5,12 @@ module.exports = {
 			options: {
 				siteUrl: "https://gatsby-starter-portfolio-minimal-theme.netlify.app/", // Used for sitemap generation
 				manifestSettings: {
-					favicon: "./content/images/favicon.png", // Path is relative to the root
-					siteName: "My Minimal Portfolio", // Used in manifest.json
-					shortName: "Portfolio", // Used in manifest.json
+					favicon: "./content/images/nhlogopro.jpg", // Path is relative to the root
+					siteName: "Noah Heraud's Portfolio", // Used in manifest.json
+					shortName: "Noah's Portfolio", // Used in manifest.json
 					startUrl: "/", // Used in manifest.json
-					backgroundColor: "#FFFFFF", // Used in manifest.json
-					themeColor: "#000000", // Used in manifest.json
+					backgroundColor: "#251C66", // Used in manifest.json
+					themeColor: "#7062DE", // Used in manifest.json
 					display: "minimal-ui", // Used in manifest.json
 				},
 				contentDirectory: "./content",
