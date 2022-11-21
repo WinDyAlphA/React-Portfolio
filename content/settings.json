@@ -6,7 +6,7 @@
     "titleTemplate": "%s · Noah's portfolio",
     "description": "A Minimalist Portfolio by Noah Heraud",
     "author": "Noah Heraud",
-    "avatar": "../content/images/gatsby.png",
+    "avatar": "../content/images/NHpic.png",
     "bio": "Interested in computers since I was a kid, I learned to code very early thanks to lego robots. With a lot of online stores or even showcase sites that I made for friends I could know the basics of web development. I quickly learned cybersecurity with sites like hackthebox or vulnhub. I wish to work in cybersecurity later on. In spite of this passion I am very sportive, I practiced handball for 7 years, I also travelled a lot which allowed me to improve my eloquence and my capacity to negotiate.",
     "social": {
       "behance": "https://behance.com",
@@ -21,14 +21,14 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Project", "url": "/#project" },
-        { "label": "Contact", "url": "/#contact" }
+        { "label": "Portfolio", "url": "/portfolio" },
+        { "label": "Features", "url": "/#features" },
+        { "label": "Github", "url": "/#github" }
       ],
       "ctaButton": {
         "openNewTab": true,
         "label": "Download Resume",
-        "url": "https://drive.google.com/uc?export=download&id=1qeU3lfKPJGW9AcG25JuxOL1bb0qViAa1"
+        "url": "https://drive.google.com/uc?export=download&id=1qeU3lfKPJGW9AcG25JuxOL1bb0qViAa1"  
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },

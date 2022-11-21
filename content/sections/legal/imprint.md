@@ -4,12 +4,12 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+HERAUD Noah<br />
+1 rue de l'espoir<br />
+Villeurbanne<br />
+France
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>heraud260@gmail.com</u>
 
 ---
 
